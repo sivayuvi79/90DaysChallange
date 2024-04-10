@@ -6,5 +6,5 @@ for i in range(1, num + 1):
 print(result)
 
 
-def Solution2(num):
+def Solution2(num, test=1):
   return (num * (num + 1)) / 2
