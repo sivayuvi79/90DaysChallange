@@ -4,3 +4,7 @@ for i in range(1, num + 1):
   result = result + i
   print(result)
 print(result)
+
+
+def Solution2(num):
+  return (num * (num + 1)) / 2
